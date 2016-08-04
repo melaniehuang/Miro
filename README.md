@@ -21,7 +21,7 @@ Processing is available for Linux, Mac OS X, and Windows and is a flexible softw
 
 ` /* Hello I'm a comment! */ `
 
-Then, Create, create, create.
+Then create, create, create.
 
 --
 
