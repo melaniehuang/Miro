@@ -2,7 +2,7 @@
 Live demo for Code in the Cinema 2016, Melbourne
 
 Task: Recreate Joan Miro's "Blue" painting with code
-![Credit:www.Joan-Miro.net](http://imgur.com/C37DAOt)
+![Credit:www.Joan-Miro.net](http://i.imgur.com/C37DAOt.jpg)
 
 To cater for all ability levels, I've also included a set of instructions to get started on your own computer.
 
@@ -30,3 +30,5 @@ If you had fun with this, Processing has a wealth of beginner to advanced tutori
 [Processing tutorials](https://processing.org/tutorials/)
 
 Or if Javascript is more your flavour - There is also a Processing inspired library [here](http://p5js.org/). 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="C37DAOt"><a href="//imgur.com/C37DAOt"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
