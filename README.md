@@ -25,7 +25,7 @@ Processing is available for Linux, Mac OS X, and Windows and is a flexible softw
 
 --
 
-Outcome:
+### Outcome of demo: 
 ![Outcome of demo](http://i.imgur.com/jo9uCpy.jpg)
 
 --
