@@ -2,7 +2,7 @@
 ## Code in the Cinema 2016, Melbourne.
 
 ### Task: 
-Recreate Joan Miro's "Blue" painting with code on stage in 10 minutes.
+Recreate the famous Joan Miro's "Bleu I" painting with code on stage in 10 minutes.
 
 ![Credit:www.Joan-Miro.net](http://i.imgur.com/C37DAOt.jpg)
 
@@ -21,7 +21,7 @@ Processing is available for Linux, Mac OS X, and Windows and is a flexible softw
 
 ` /* Hello I'm a comment! */ `
 
-5. Create, create, create.
+Then, Create, create, create.
 
 --
 
