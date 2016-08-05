@@ -15,8 +15,7 @@ To cater for all ability levels, I've also included a set of instructions so tha
 2. [Download](https://github.com/melaniehuang/Miro/archive/master.zip) this zip for all the files needed to get this digital artwork onto your computer.
 
 3. Open Processing and open the file "miro.pde" and press the 'Play' button in the top left-hand corner. It should look something like this:
-
-![Processing Sketch](http://i.imgur.com/Kl9A2eq.png =50x)
+![Processing Sketch](http://i.imgur.com/Kl9A2eq.png)
 
 4. Change the colours by having a play with the numbers. I have put comments that look like this to guide you in how to change these colours.
 
