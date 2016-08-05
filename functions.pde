@@ -8,14 +8,14 @@ void createBase(color from, color to) {
   }
 }
 
-void createPaint(color from, color to) {
-  for (int a = 0; a < 10; a++) {
+void createPaint(color from, color to, int paintNum) {
+  for (int a = 0; a < paintNum; a++) {
     PVector p1 = new PVector(random(-200, width/2+200), random(-200, height+200));
     PVector p2 = new PVector(p1.x + random(700, 900), p1.y + random(-200, 200));
 
     for (int i = 0; i <= random(180, 300); i++) {
       bezier(p1.x, p1.y+i, (p1.x + 60), (p1.y + random(-20, 30))+i, p2.x, p2.y+i, p2.x - 60, (p2.y + random(-30, 20))+i);
-      stroke(lerpColor(from, to, noise(xoff)), 100);  
+      stroke(lerpColor(from, to, noise(xoff)), 150);  
       xoff++;
     }
   }
@@ -64,18 +64,4 @@ void defaultStyle() {
   strokeWeight(1);
   noStroke();
   noFill();
-}
-
-/* Image functions */
-void createDonuts(PImage imageName, int howMany) {
-  for (int i = 0; i < howMany; i++) {  
-    float donutSize = random(64,128);
-    PVector ellipsePosition = new PVector(random(0, width), random(0, height));
-    image(imageName, ellipsePosition.x, ellipsePosition.y, donutSize, donutSize);
-  }
-}
-
-void createDrumstick(PImage imageName, int imageSize) {
-  PVector dPos = new PVector (random(130,width/2),random(50, height/2));
-  image(imageName, dPos.x, dPos.y, imageSize, imageSize); 
 }
