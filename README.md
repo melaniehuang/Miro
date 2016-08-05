@@ -8,24 +8,20 @@ Recreate the famous Joan Miro's "Bleu I" painting with code on stage in 10 minut
 
 To cater for all ability levels, I've also included a set of instructions so that anyone can have a play.
 
---
+### Instructions: 
 
-1. First off, download the wonderful Processing. 
+1. First off, download the wonderful Processing. Processing is available for Linux, Mac OS X, and Windows and is a flexible software sketchbook and language for learning how to code within the context of the visual arts. [Download Processing here](https://processing.org/download/?processing)
 
-Processing is available for Linux, Mac OS X, and Windows and is a flexible software sketchbook and language for learning how to code within the context of the visual arts. [Download Processing here](https://processing.org/download/?processing)
+2. [Download](https://github.com/melaniehuang/Miro/archive/master.zip) this zip for all the files needed to get this digital artwork onto your computer.
 
-2. [Download](https://github.com/melaniehuang/Miro/archive/master.zip) this zip of files for the artwork.
+3. Open Processing and open the file "miro.pde" and press the 'Play' button in the top left-hand corner. It should look something like this:
+![Processing Sketch](http://i.imgur.com/Kl9A2eq.png)
 
-3. Open Processing and open the file "miro.pde" and press the 'Play' button in the top right-hand corner. It should look something like this:
-[Processing Sketch](http://i.imgur.com/Kl9A2eq.png)
-
-4. Change the colours by having a play with the numbers. I have put comments that look like this 
+4. Change the colours by having a play with the numbers. I have put comments that look like this to guide you in how to change these colours.
 
 ` /* Hello I'm a comment! */ `
 
 Then create, create, create.
-
---
 
 ### Outcome of demo: 
 ![Outcome of demo](http://i.imgur.com/jo9uCpy.jpg)
