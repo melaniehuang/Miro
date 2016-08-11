@@ -17,11 +17,13 @@ To cater for all ability levels, I've also included a set of instructions so tha
 3. Open Processing and open the file "miro.pde" and press the 'Play' button in the top left-hand corner. It should look something like this:
 ![Processing Sketch](http://i.imgur.com/bPUTlHQ.png)
 
+To explain what is happening - You will notice two tabs, one called "miro" and one called "functions". "functions" is telling "miro" all the things it needs to make the artwork. "miro" will give you access to the easy parts that you can change and play with. Just have fun with it.
+
 4. Change the colours by having a play with the numbers. I have put comments that look like this to guide you in how to change these colours.
 
-` /* Hello I'm a comment! */ `
+` // Hello I'm a comment! `
 
-Then create, create, create.
+Now, create, create, create.
 
 ### Outcome of demo: 
 ![Outcome of demo](http://i.imgur.com/jo9uCpy.jpg)
@@ -32,4 +34,4 @@ If you had fun with this, Processing has a wealth of beginner to advanced [Proce
 
 Or if Javascript is more your flavour - There is also an awesome Processing inspired library [here](http://p5js.org/) called p5.js to get your artworks straight into the browser. 
 
-If you have any questions, please get in contact with me on hello@melaniehuang.com - I'd be happy to help.
+If you have any questions, please get in contact with me on hello@melaniehuang.com or on Twitter @melaniehuang_- I'd be happy to help where I can.
